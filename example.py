@@ -1,5 +1,6 @@
-## Contact Telegram @bloodyev
-https://t.me/bloodyev
+### contact me
+## Contact Telegram @Neo_Galaxy
+https://t.me/Neo_Galaxy
 
 import time
 from time import sleep
