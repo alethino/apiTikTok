@@ -9,7 +9,6 @@ import json
 import os.path
 from helper import Helper
 
-
 class Api():
     api_url = "https://api16-normal-c-useast1a.tiktokv.com/"
     global_variable = {}
