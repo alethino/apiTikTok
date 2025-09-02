@@ -1,8 +1,8 @@
 # apiTikTok
 tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device register, tiktok api,  TikTok Private API X-Gorgon  X-Khronos   X-Argus  X-Ladon  TTEncrypt  Xlog
 ### contact me
-## Contact Telegram @Neo_Galaxy
-https://t.me/Neo_Galaxy
+## Contact Telegram @alethino
+https://t.me/alethino
 
 # tiktokapi
 tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device register, tiktok api
@@ -43,5 +43,5 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
 22. create accounts
 
 ### contact me
-## Contact Telegram @Neo_Galaxy
-https://t.me/Neo_Galaxy
+## Contact Telegram @alethino
+https://t.me/alethino
